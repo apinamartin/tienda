@@ -2,4 +2,3 @@ pandas
 Django
 requests
 djangorestframework
-mysqlclient

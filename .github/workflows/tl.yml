@@ -32,5 +32,5 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/apinamartin/tienda/ejemplo-python:${{ github.ref_name }}
-            ghcr.io/apinamartin/tienda/ejemplo-python:latest
+            ghcr.io/apinamartin/tienda:${{ github.ref_name }}
+            ghcr.io/apinamartin/tienda:latest
